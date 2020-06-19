@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+C:\Users\Lenovo\Desktop\servlets\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+287702027.index

@@ -1,0 +1,12 @@
+import java.io.Serializable;
+
+public class Bean implements Serializable{
+	
+	private int sid;
+	private String sname;
+	private String email;
+	private int dept;
+	
+	
+
+}

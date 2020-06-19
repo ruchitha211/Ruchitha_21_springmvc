@@ -1,0 +1,7 @@
+package com.capgemini.servletswithoutsession.servletss;
+
+import javax.servlet.http.HttpServlet;
+
+public class AllEmployeeDetails extends HttpServlet{
+
+}

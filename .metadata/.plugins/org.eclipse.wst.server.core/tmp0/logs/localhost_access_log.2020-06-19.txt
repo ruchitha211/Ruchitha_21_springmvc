@@ -1,0 +1,9 @@
+127.0.0.1 - - [19/Jun/2020:21:19:53 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [19/Jun/2020:21:19:57 +0530] "GET /servletswithoutsession/index.jsp HTTP/1.1" 200 178
+0:0:0:0:0:0:0:1 - - [19/Jun/2020:21:20:04 +0530] "GET /servletswithoutsession/login.html HTTP/1.1" 404 788
+127.0.0.1 - - [19/Jun/2020:21:34:57 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [19/Jun/2020:21:35:14 +0530] "GET /servletswithoutsession HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [19/Jun/2020:21:35:15 +0530] "GET /servletswithoutsession/ HTTP/1.1" 200 264
+0:0:0:0:0:0:0:1 - - [19/Jun/2020:21:35:43 +0530] "GET /servletswithoutsession HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [19/Jun/2020:21:35:43 +0530] "GET /servletswithoutsession/ HTTP/1.1" 200 264
+0:0:0:0:0:0:0:1 - - [19/Jun/2020:21:35:46 +0530] "POST /servletswithoutsession/Login HTTP/1.1" 404 783

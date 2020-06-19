@@ -1,0 +1,43 @@
+package com.capgemini.servletswithoutsession.dao;
+
+import java.sql.DriverManager;
+import java.util.ArrayList;
+
+import com.capgemini.servletswithoutsession.dto.Bean;
+import com.mysql.jdbc.Connection;
+import com.mysql.jdbc.PreparedStatement;
+
+public class EmployeeDaoImpl implements EmployeeDao{
+	
+	String url = "jdbc:mysql://localhost:3306/emp_db?useSSL=false&user=root&password=root";
+	Class.forName("com.mysql.jdbc.Driver");
+	Connection connection = (Connection) DriverManager.getConnection(url);
+		
+
+	public boolean deleteEmployeeById(int id) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	public boolean updateEmployee(Bean b) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	public boolean addEmployeeDetails(Bean b2) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	public Bean getEmployeeDetailsById(int id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public ArrayList<Bean> getAllEmployeeDetails() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	
+
+}

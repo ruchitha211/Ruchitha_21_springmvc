@@ -1,0 +1,5 @@
+INDEX VERSION 1.130
+C:\Users\Lenovo\Desktop\servlets\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2149121638.index
+\servletswithoutsession\src\main\resources
+C:\Users\Lenovo\Desktop\servlets\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4132378280.index
+\empwebapp\src\main\java

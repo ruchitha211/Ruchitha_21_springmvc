@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;servletswithoutsession&apos; to &apos;empwebapp&apos;" description="Rename resource &apos;servletswithoutsession&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/servletswithoutsession" name="empwebapp" stamp="1592592698051" updateReferences="true"/>
+</session>
