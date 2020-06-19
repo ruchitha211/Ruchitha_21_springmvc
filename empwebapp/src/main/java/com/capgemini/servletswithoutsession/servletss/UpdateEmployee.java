@@ -32,7 +32,7 @@ public class UpdateEmployee extends HttpServlet {
 		out.println("<h1>");
 
 		if (check == true) {
-			out.println("Update sucessfull");
+			out.println("Updated");
 		} else {
 			out.println("Update unsucessfull");
 		}

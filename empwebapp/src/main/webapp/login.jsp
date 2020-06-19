@@ -7,11 +7,11 @@
 <title>Insert title here</title>
 </head>
 <body>
-  <a  href="./searchEmployee.html">Search Employee</a><br>
-     <a  href="./addEmployee.html">Add Employee</a><br>
-     <a  href="./updateEmployee.html">Update Employee</a><br>
-     <a  href="./deleteEmployee.html">Delete Employee</a><br>
-      <a  href="./seeAllEmployee.html">See All Employee</a><br>
+  <a  href="./search.html">Search Employee</a><br>
+     <a  href="./addemp.html">Add Employee</a><br>
+     <a  href="./update.html">Update Employee</a><br>
+     <a  href="./deleteemployee.html">Delete Employee</a><br>
+      <a  href="./getdetails.html">See All Employee</a><br>
       <a  href="./logout.html"> LogOut</a><br>
 </body>
 </html>

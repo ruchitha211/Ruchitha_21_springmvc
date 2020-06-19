@@ -39,17 +39,17 @@ public class AddEmployee  extends HttpServlet{
 			out.println("<h1></h1>");
 			
 		    if(check==true) {
-						out.println("Insertion sucessfull");
+						out.println("Inserted");
 					}
 					else {
-						out.println("Insertion unsucessfull");
+						out.println("not inserted");
 					}
 							
 		    out.println("</h1>"); 
 			  
 			out.println("</body>");
 			out.println("</html>");
-			 RequestDispatcher dispatcher=req.getRequestDispatcher("/homepage.html");
+			 RequestDispatcher dispatcher=req.getRequestDispatcher("/login.html");
 			    dispatcher.include(req, resp);
 	
 		super.doPost(req, resp);
